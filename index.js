@@ -1,5 +1,3 @@
-import KeyboardAwareView from './lib/CoreKeyboardAwareView'
+import KeyboardAwareView from "./lib/CoreKeyboardAwareView";
 
-export {
-  KeyboardAwareView
-}
+export { KeyboardAwareView };
